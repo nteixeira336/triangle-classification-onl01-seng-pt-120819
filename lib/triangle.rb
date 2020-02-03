@@ -7,7 +7,7 @@ class Triangle
   end 
   
   def kind 
-    
+    if @a<=0 
     
   end 
   
